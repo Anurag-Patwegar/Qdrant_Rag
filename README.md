@@ -1,5 +1,5 @@
 
-# 📘 Qdrant_Rag
+# 📘 Qdrant Rag
 
 A fully local **Retrieval-Augmented Generation (RAG)** system built using:
 
